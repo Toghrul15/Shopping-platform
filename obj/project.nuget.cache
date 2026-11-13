@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qApovaUjqA=",
+  "success": true,
+  "projectFilePath": "D:\\Onedrive cache\\Toghrul\\OneDrive\\Desktop\\Shop.Api\\Shop.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toghr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\toghr\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
